@@ -1,4 +1,4 @@
-# Multi-Armed Bandits
+# Multi-Armed Bandits, Reinforcement Learning
 
 1) Реализован ε-жадный алгоритм двумя способами:
 
