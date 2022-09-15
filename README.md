@@ -1,1 +1,1 @@
-# MultiArmedBandits
+# Multi-Armed Bandits
