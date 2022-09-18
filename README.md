@@ -1,9 +1,10 @@
 # Multi-Armed Bandits, Reinforcement Learning
 
-1) Реализован ε-жадный алгоритм двумя способами:
 
-- Без оптимистичной инициализации;
+1) The ε-greedy algorithm is implemented in two ways:
 
-- С оптимистичной инициализацией.
+- without optimistic initialization;
 
-2) Решена классическая задача многоруких бандитов на трех типах окружения.
+- with optimistic initialization.
+
+2) The classic problem of multi-armed bandits has been solved on three types of environment.
