@@ -16,7 +16,7 @@ File to run:
     
     executor/main.py
 
-Parameters of the algorithm can be change in:
+Parameters of the algorithm can be changed in:
 
     configs/config.py 
   
